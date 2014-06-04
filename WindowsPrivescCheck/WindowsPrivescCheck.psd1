@@ -4,16 +4,16 @@
 ModuleToProcess = 'WindowsPrivescCheck.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.3'
+ModuleVersion = '0.1'
 
 # ID used to uniquely identify this module
-GUID = '01aa873e-e21a-4f2f-a103-24904b2bfd5c'
+GUID = 'e4c500e1-d2d3-4df4-b4db-e9a78e696f97'
 
 # Author of this module
 Author = 'B'
 
 # Company or vendor of this module
-CompanyName = 'Unknown'
+CompanyName = 'Silent Signal'
 
 # Copyright statement for this module
 Copyright = ''
