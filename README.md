@@ -1,3 +1,8 @@
+Archived
+========
+
+Better, up-to-date alternative: https://github.com/itm4n/PrivescCheck
+
 Windows Privesc Check - Powershell 
 ==================================
 
